@@ -3,9 +3,9 @@
 
 - My first ever original project was [DDR: Deutsche Demokratische Republik](https://github.com/JohnDanaher/ddr)
 
-- I’m currently learning **Python 🐍**
-
 - Though my first 👯 collaboration was a LOT prettier. It's called [OnlyPlants](https://github.com/JohnDanaher/onlyplants)
+
+- I’m currently learning **Python 🐍**
 
 - A personal favorite project as part of the duo Gentlemen of Canggu was the now super-popular [Chunks of Canggu](https://github.com/orgs/Gentlemen-of-Canggu-Co/repositories)
 
