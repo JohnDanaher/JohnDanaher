@@ -1,6 +1,8 @@
 <h1 align="center">Hi there! I'm John Danaher</h1>
 <h3 align="center">An aspiring nerd based in Berlin (très rare, I know)</h3>
 
+- I work at <strong font-color="A64D79">Groupera</strong> as a Backend Developer
+
 - My first ever original project was [DDR: Deutsche Demokratische Republik](https://github.com/JohnDanaher/ddr)
 
 - Though my first 👯 collaboration was a LOT prettier. It's called [OnlyPlants](https://github.com/JohnDanaher/onlyplants)
